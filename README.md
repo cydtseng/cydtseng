@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [indie games](https://cydisq.itch.io/)
 
-- 📝 I write articles on [https://medium.com/@cydtseng](https://medium.com/@cydtseng)
+- 📝 I write articles on [programming](https://medium.com/@cydtseng)
 
 
 <h3 align="left">Socials:</h3>
