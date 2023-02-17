@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on [indie games](https://cydisq.itch.io/)
-
+- 🔭 Wishlist [Lokaa](https://store.steampowered.com/app/2323070/Lokaa/) on Steam today!
 - 📝 I write articles on [programming](https://medium.com/@cydtseng)
 
 
