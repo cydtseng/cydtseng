@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cydtseng&label=Profile%20views&color=0e75b6&style=flat" alt="cydtseng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cydtseng" alt="cydtseng" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cydtseng&column=-1&theme=gruvbox&margin-w=20&no-bg=true" alt="cydtseng" /></a> </p>
 
 
 
